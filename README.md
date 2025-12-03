@@ -9,3 +9,4 @@
   - `export __GLX_VENDOR_LIBRARY_NAME=nvidia`
   启动脚本 `start_gazebo.sh` 默认会使用 GPU 渲染（在环境变量设置正确的前提下）。
 - **机器人模型包**：机器人外观/URDF 等模型放在 `pb2025_robot_description` 包内。
+**其他配置包**：进入rmu_gazebo_simulator 看markdown
