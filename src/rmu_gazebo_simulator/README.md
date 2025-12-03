@@ -6,7 +6,7 @@ rmu_gazebo_simulator 是基于 Gazebo (Ignition 字母版本) 的仿真环境，
 
 目前 rmu_gazebo_simulator 提供以下功能：
 
-- rmul_2024, rmuc_2024, rmul_2025, rmuc_2025 仿真世界模型
+- rmul_2024, rmuc_2024, rmul_2025, rmuc_2025 rmul_2026,rmuc_2026 仿真世界模型
 
 - 网页端局域网联机对战
 
